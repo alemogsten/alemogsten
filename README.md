@@ -1,4 +1,4 @@
-Australian Senior Software Engineer
+#Australian Senior Software Engineer
 
 Thanks for stopping by my Profile!
 I am a well-qualified FullStack Engineer familiar with wide range of programming utilities and languages.
@@ -31,5 +31,6 @@ Building ChatBot using OpenAI models, Fine Tuning, Training Dataset, Voice Chatt
 Blockchain,cryptocurrency development and integration
 
 
-Email: alexander.mogavero@outlook.com
-Discord: `alemog`
+**Email**: alexander.mogavero@outlook.com
+
+**Discord**: `alemog`
