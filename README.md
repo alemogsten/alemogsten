@@ -32,5 +32,4 @@ Blockchain,cryptocurrency development and integration
 
 
 Email: alexander.mogavero@outlook.com
-
-Discord: alemog
+Discord: `alemog`
