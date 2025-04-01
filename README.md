@@ -31,6 +31,3 @@ Building ChatBot using OpenAI models, Fine Tuning, Training Dataset, Voice Chatt
 Blockchain,cryptocurrency development and integration
 
 
-**Email**: alexander.mogavero@outlook.com
-
-**Discord**: `alemog`
